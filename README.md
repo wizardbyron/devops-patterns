@@ -46,13 +46,13 @@ DevOps 模式和反模式的解释和案例索引
 ### DevOps 管理模式
 
 * 模式：最小可用流程
-* 模式：DevOps Kanban
+* 模式：DevOps 看板
 * 模式：累计流图
 * 模式：四类任务
 * 模式：DevOps 关键指标
-* 模式：定制化DevOps 度量
+* 模式：定制化 DevOps 度量
 * 反模式：没有度量的DevOps
-* 模式：Scrum with Ops
+* 模式：包含 Ops 的 Scrum
 * 模式：质量内建
 * 模式：质量保证和质量控制
 * 反模式：过程质量 Over 结果质量
